@@ -92,7 +92,6 @@ plt.title("quality of life (khusus sehat)")
 - malam (20.00 – 22.00): belajar
 - malam (22.00 – 23.00): main sosmed
 - tidur (23.00 - 05.30) tidur
-Waktu istirahat cukup penting untuk menjaga kesehatan fisik & mental.
 
 
 # Nama: Olivia Natasya Yuniar
